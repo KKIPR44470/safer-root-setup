@@ -38,7 +38,7 @@ Debian 11（建議） / Debian 12
 
 Ubuntu 暫未完全測試不保證相容
 
-## 📦一鍵安裝
+## 📦一鍵安裝 safer-root.sh
 
 使用下列指令在你的 VPS 上執行：
 
