@@ -14,8 +14,6 @@
 📁檔案說明
 
 檔案名稱	說明
-
-install.sh	可作為主安裝入口腳本
 safer-root.sh	執行實際的 root 安全設置操作
 
 ---
